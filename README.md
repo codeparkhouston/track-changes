@@ -1,11 +1,10 @@
 # Track-Changes
----
 
 This is a workshop originally developed for the [Houston Hackathon](http://houstonhackathon.com/) in Partnership with [Sketch City](http://sketchcity.org/) and [Girls Coding Club](https://www.meetup.com/Girls-Coding-Club/).
 
 We want to introduce people to Git and Github in an accessible and easy-to-understand way.
 ## Planning Considerations
----
+
 This is a workshop for
 
 - **programmers** who want to learn more about version control.
@@ -17,7 +16,7 @@ By the end of the workshop, everyone should be able to:
 - understand enough about the Git and Github workflow to begin collaborating     with others on github.com.
 
 ## Structure
----
+
 We planned this workshop to be delivered over 3-4 hours.
 
 ### Intro
@@ -40,7 +39,6 @@ We planned this workshop to be delivered over 3-4 hours.
 
 
 ## Set up
----
 
 Students should
 
