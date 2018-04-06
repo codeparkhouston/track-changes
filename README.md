@@ -42,7 +42,7 @@ We planned this workshop to be delivered over 3-4 hours.
 
 Students should
 
-1. [Sign up]((https://github.com/join)) for a GitHub account.
+1. [Sign up](https://github.com/join) for a GitHub account.
 
 2. [Install GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/).
 
