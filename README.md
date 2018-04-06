@@ -51,3 +51,9 @@ Instructors should
 
 1. Print handouts.
 
+## Additional Resources:
+
+
+- [Atlassian's Getting Git Right Guide](https://www.atlassian.com/git)
+- [The Coding Train Git and Github for Poets Youtube Series](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Git Hub Education for Students](https://education.github.com/)
