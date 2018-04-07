@@ -66,3 +66,13 @@ One of the things GitHub does really well, as we were saying is letting people w
 
 Now, as I refresh up here, we see all of your Issues!  Let's take a look at one.  We see in this issue that your username is saved as well!
 
+# Let's all be collaborators!
+
+I will use this to add each of you as a collaborator to our cool poem project.
+
+1. Click on "Settings."
+1. Click on "Collaborators" on the left-hand side.
+1. Paste each of the usernames and click "Add"
+
+Now, we see how when we have projects we want others to be able to easily work together on, we can add each other as collaborators when we have their username!  Feel free to take a quick coffee break as I continue to add each of you :).
+
