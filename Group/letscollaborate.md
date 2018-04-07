@@ -43,3 +43,12 @@ We download the repository to our computers by doing something called "Clone Rep
 1. Save the file in the `a-poem` folder for the repository.
 1. Ask git to commit a snapshot of your changes in GitHub Desktop.
 
+# Publish our changes
+
+Now that git knows about your latest changes, let's publish your changes to the remote that is on GitHub.
+
+1. Click on "Push origin"
+  * Push origin sounds weird right?  We can think of it like this: when we want the changes from our computer to a computer away from us, we push the changes from us.  "Origin" is the default name for the place/web address/remote that we first download or clone the repository from.
+1. !!!!! We get an alert about how we're not allowed to do this!
+
+
