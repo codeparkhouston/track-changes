@@ -21,6 +21,36 @@ We planned this workshop to be delivered over 3-4 hours.
 
 ### Intro
 
+![](/images/github...welcome.png)
+
+- Version Control systems...
+  - Essay ex...
+
+  - Both, GitLab and GitHub are web-based Git repositories..
+    - Just another name for a different data structure that helps you record history of changes in your files and also who made them...
+
+  - Github/ Gitlab provide a web interface that works with Git...
+
+  - GitHub, Gitlab, Git...what?
+
+
+  | Differences        | GitLab           | GitHub|
+  | ------------- |:-------------:| :-----:|
+  | Released     | September 2011 | April 2008 |
+  | Number of users      | 100 M (March 2017)      |   26 MM (March 2017) |
+  | Free plans (Community Editions) | Unlimited public and private repositories      |    Free for public repositories only |
+  |Paid plans (Enterprise Editions) | Starts at $49 per user per year | Starts at $250 per user per year|
+
+
+  - Github usual workflow
+
+  ![](/images/introduction-to-github-slideshare-7-638.jpg)
+
+    - How can we access it?
+      - [Kenia's GitHub website](https://github.com/keniasalazarm)
+      - CLI
+      - GitHub Desktop
+
 ### Individual Experience
 
 - what is a "repository"
@@ -32,9 +62,12 @@ We planned this workshop to be delivered over 3-4 hours.
 ### Collaboration Experience
 
 ### Wrap Up
-
 - different git workflows
+  Let's work with command line!
+
 - Github alternatives
+  How different is GitLab?
+  [Kenia's GitLab website](https://gitlab.com/keniasalazarm)
 
 
 
