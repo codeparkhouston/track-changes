@@ -76,3 +76,19 @@ I will use this to add each of you as a collaborator to our cool poem project.
 
 Now, we see how when we have projects we want others to be able to easily work together on, we can add each other as collaborators when we have their username!  Feel free to take a quick coffee break as I continue to add each of you :).
 
+# Trying to publish again
+
+Now, let's try pushing the new poems you've committe again!
+
+1. Click on "Push origin"
+
+Ah! for the first of us, we're able to push the change up right away!  Check it out!  It's on the Github website!
+
+For others of us, we are getting a weird message about being out of sync.  What this means is the git on our computer sees that what's on the GitHub repository is more up to date than what we have on our computers!  It's easy to fix this.  We can click on the "Pull origin" button.
+
+1. Click on "Pull origin"
+  * This is also a weird phrase, but if we think about it, pull is the opposite of push.  So in this case, we are grabbing the changes that are now on the GitHub remote and pulling them down onto our computer!
+
+Let's pull and push until all our awesome poems are in our collaborative poem collection.
+
+This is a big moment!  In addition to when you made an issue onthe project, we've now all contributed to an "open source" project!  We'll talk a little more about what that means later on, but what's really cool is we made this collection of poems together!
