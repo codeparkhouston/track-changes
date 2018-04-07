@@ -51,4 +51,18 @@ Now that git knows about your latest changes, let's publish your changes to the 
   * Push origin sounds weird right?  We can think of it like this: when we want the changes from our computer to a computer away from us, we push the changes from us.  "Origin" is the default name for the place/web address/remote that we first download or clone the repository from.
 1. !!!!! We get an alert about how we're not allowed to do this!
 
+# Why Issues?
+
+When we make repositories on GitHub, only people we allow to make changes to the repository can do it.  One way we can handle this problem is for me to adjust the permissions for this project so that you can make edits to this.
+
+One of the things GitHub does really well, as we were saying is letting people work together on a project.  We often need to talk about what ideas we have for a project together, and a common place to do this on GitHub is "Issues".  What we should do before we push changes to shared project is share what it is that we see needs changing before trying to make the change so that all our teammates can know when this task is complete and/or that somebody has been thinking about it and/or allow our teammates to weigh in on this.  Let's follow this procedure and each of us make "Issues" on the GitHub website for this project online.
+
+1. Go to the GitHub page for the project.
+1. Click on the "Issues" link.
+1. Click on the "New Issues" button.
+1. Write why your poem needs to be a part of this project :).
+  * Note: There must be a title for your issue before you can submit it!
+1. Click on "Submit new issue"
+
+Now, as I refresh up here, we see all of your Issues!  Let's take a look at one.  We see in this issue that your username is saved as well!
 
