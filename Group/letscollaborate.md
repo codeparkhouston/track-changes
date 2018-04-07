@@ -27,3 +27,19 @@ We see we have our history of changes, just like before!  So that we can work wi
 
 Cool!  Our project is online.  Let's check it out with "View on GitHub."
 
+# Get it on our own computers and add our own poems
+
+The repository is not yet in your computer.  Let's get it on your computers so that we can easily start to make the changes you want.
+
+We download the repository to our computers by doing something called "Clone Repository," to make a copy of the project and it's whole history with it.  Then, let's take some time to make a new file in the poem project, add and commit your own poems to the project.
+
+1. File > Clone Repository
+  1. Find the repository I just made on github
+  1. Copy the URL by clicking on the copy button
+  1. Click on the URL tab on the "Clone a Repository" popup on GitHub Desktop
+  1. Choose where you want the project to go on your computer
+  1. Click the "Clone" button
+1. Make a new text file and write a short poem
+1. Save the file in the `a-poem` folder for the repository.
+1. Ask git to commit a snapshot of your changes in GitHub Desktop.
+
