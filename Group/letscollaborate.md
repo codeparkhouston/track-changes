@@ -19,4 +19,11 @@ Now we see our changes as before.  What's next?
 1. Describe our changes
 1. Tell git to commit to memory or save this snapshot of our changes
 
+# Get it online
+
+We see we have our history of changes, just like before!  So that we can work with each other on this project, we need to put our repository online.  How do we do that?
+
+1. Publish Repository
+
+Cool!  Our project is online.  Let's check it out with "View on GitHub."
 
