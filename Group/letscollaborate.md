@@ -9,3 +9,14 @@ What we'll be doing now is getting to something I find really exciting about git
 1. Open our project
 
 We now have our starting project!
+
+# Let's make a commit
+
+I have a poem about git for this occassion.  I'm going to put that in our project.
+
+Now we see our changes as before.  What's next?
+
+1. Describe our changes
+1. Tell git to commit to memory or save this snapshot of our changes
+
+
